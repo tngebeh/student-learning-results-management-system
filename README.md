@@ -142,6 +142,4 @@ The project provides a foundation for further development into a more complete a
 - Programme: BBIT1101
 - Faculty: Faculty of ICT
 - Course: Object-Oriented Programming
-- Lecturer: [Enter your lecturer's name]
-- GitHub repository: [Paste your repository URL]
-- Submission date: [Enter your submission date]
+  
